@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cNxJEEPzDGWekV0xKtmNgWqr16r4QMj/CMqSMnYEwIHRWKyT13J9NzEM0cbRulB3uWAEo5onnKHpJoKPt+swyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AndreiaFratila\\source\\repos\\google-transalte-xpath\\GoogleTranslateDemo.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AndreiaFratila\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}

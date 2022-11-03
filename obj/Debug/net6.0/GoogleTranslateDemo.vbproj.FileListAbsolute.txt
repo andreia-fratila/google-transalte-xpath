@@ -1,0 +1,17 @@
+C:\Users\AndreiaFratila\source\repos\GoogleTranslateDemo\bin\Debug\net6.0\GoogleTranslateDemo.exe
+C:\Users\AndreiaFratila\source\repos\GoogleTranslateDemo\bin\Debug\net6.0\GoogleTranslateDemo.deps.json
+C:\Users\AndreiaFratila\source\repos\GoogleTranslateDemo\bin\Debug\net6.0\GoogleTranslateDemo.runtimeconfig.json
+C:\Users\AndreiaFratila\source\repos\GoogleTranslateDemo\bin\Debug\net6.0\GoogleTranslateDemo.dll
+C:\Users\AndreiaFratila\source\repos\GoogleTranslateDemo\bin\Debug\net6.0\GoogleTranslateDemo.pdb
+C:\Users\AndreiaFratila\source\repos\GoogleTranslateDemo\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\AndreiaFratila\source\repos\GoogleTranslateDemo\obj\Debug\net6.0\GoogleTranslateDemo.vbproj.AssemblyReference.cache
+C:\Users\AndreiaFratila\source\repos\GoogleTranslateDemo\obj\Debug\net6.0\GoogleTranslateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndreiaFratila\source\repos\GoogleTranslateDemo\obj\Debug\net6.0\GoogleTranslateDemo.AssemblyInfoInputs.cache
+C:\Users\AndreiaFratila\source\repos\GoogleTranslateDemo\obj\Debug\net6.0\GoogleTranslateDemo.AssemblyInfo.vb
+C:\Users\AndreiaFratila\source\repos\GoogleTranslateDemo\obj\Debug\net6.0\GoogleTranslateDemo.vbproj.CoreCompileInputs.cache
+C:\Users\AndreiaFratila\source\repos\GoogleTranslateDemo\obj\Debug\net6.0\GoogleTranslateDemo.vbproj.CopyComplete
+C:\Users\AndreiaFratila\source\repos\GoogleTranslateDemo\obj\Debug\net6.0\GoogleTranslateDemo.dll
+C:\Users\AndreiaFratila\source\repos\GoogleTranslateDemo\obj\Debug\net6.0\refint\GoogleTranslateDemo.dll
+C:\Users\AndreiaFratila\source\repos\GoogleTranslateDemo\obj\Debug\net6.0\GoogleTranslateDemo.pdb
+C:\Users\AndreiaFratila\source\repos\GoogleTranslateDemo\obj\Debug\net6.0\GoogleTranslateDemo.genruntimeconfig.cache
+C:\Users\AndreiaFratila\source\repos\GoogleTranslateDemo\obj\Debug\net6.0\ref\GoogleTranslateDemo.dll
